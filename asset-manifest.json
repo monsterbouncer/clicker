@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/clicker/static/css/main.255ea91f.css",
+    "main.js": "/clicker/static/js/main.22ce5968.js",
+    "static/js/453.4ef5e572.chunk.js": "/clicker/static/js/453.4ef5e572.chunk.js",
+    "static/media/monsters1.png": "/clicker/static/media/monsters1.42978081d6990ae593f0.png",
+    "static/media/halloweenCoins.jpg": "/clicker/static/media/halloweenCoins.b7bd51473d0e046a587b.jpg",
+    "static/media/pendingIcon.png": "/clicker/static/media/pendingIcon.6b7c2fed87e64b9fb4e4.png",
+    "static/media/errorIcon.png": "/clicker/static/media/errorIcon.fd9b3ba09d0981d69dc9.png",
+    "index.html": "/clicker/index.html",
+    "static/media/successIcon.svg": "/clicker/static/media/successIcon.4d60bc7b198cb18768b78a225ce99a82.svg",
+    "main.255ea91f.css.map": "/clicker/static/css/main.255ea91f.css.map",
+    "main.22ce5968.js.map": "/clicker/static/js/main.22ce5968.js.map",
+    "453.4ef5e572.chunk.js.map": "/clicker/static/js/453.4ef5e572.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.255ea91f.css",
+    "static/js/main.22ce5968.js"
+  ]
+}
